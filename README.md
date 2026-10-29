@@ -1,6 +1,8 @@
 # Ideal Braking Curve
 
-This program calculates and plots the ideal braking curve for our Formula Student car. It works out the front and rear braking forces for tyre friction coefficients from 0 to 2, prints them in a table, and saves a graph.
+This program calculates and plots the ideal braking curve. It works out the front and rear braking forces for tyre friction coefficients from 0.0 to 2.0, prints them in a table, and saves a graph. 
+
+Full details, including the theory, assumptions and a worked example, are in [`report.pdf`](report.pdf).
 
 ## Requirements
 
